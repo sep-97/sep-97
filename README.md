@@ -44,8 +44,7 @@ Docker • Kubernetes
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/sepehr-ashtari-mahini-9275ab152/)
-- **Resume:** [Download Resume](YOUR_RESUME_URL)
+- **LinkedIn:** [Sepehr Ashtari Mahini](https://www.linkedin.com/in/sepehr-ashtari-mahini-9275ab152/)
 
 ---
 
