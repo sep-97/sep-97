@@ -16,7 +16,7 @@ I'm a passionate software engineer with 6 years of experience building high-perf
 .NET • Rust (Familiar)
 
 ### Front-end
-Angular • TypeScript • Bootstrap • Redux • Blazor • Tailwind CSS • PWA
+Angular • TypeScript • Bootstrap • Redux • Blazor • PWA
 
 ### Database & ORM
 Ecto with PostgreSQL • MSSQL • Redis • MongoDB (Familiar)
@@ -49,4 +49,4 @@ Docker • Kubernetes
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [sep-97](https://github.com/sep-97)
