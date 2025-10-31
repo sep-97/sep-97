@@ -16,7 +16,7 @@ I'm a passionate software engineer with 6 years of experience building high-perf
 .NET • Rust (Familiar)
 
 ### Front-end
-Angular • TypeScript • Bootstrap • Redux • Blazor • PWA
+Angular • TypeScript • Bootstrap • Blazor • PWA
 
 ### Database & ORM
 Ecto with PostgreSQL • MSSQL • Redis • MongoDB (Familiar)
